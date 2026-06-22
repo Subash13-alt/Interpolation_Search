@@ -1,2 +1,9 @@
-# Interpolation_Search
-Implementation of Interpolation Search algorithm in Python and analyze the time complexity by measuring execution time on sorted datasets of varying sizes.
+# Interpolation Search
+
+## Live Demo
+
+https://interpolationsearch-xdcvkyodcb7bedfytw4ua6.streamlit.app/
+
+## Description
+
+This project implements Interpolation Search and compares its performance with Binary Search.
