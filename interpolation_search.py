@@ -2,6 +2,7 @@
 import time
 import random
 import sys
+import streamlit as st
 from tracemalloc import start
 
 from numpy import size
